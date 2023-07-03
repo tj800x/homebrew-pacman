@@ -10,7 +10,8 @@ class PacmanAT601 < Formula
  
   stable do
     url "https://github.com/tj800x/homebrew-pacman/releases/download/v6.0.1/pacman-darwin.6.0.1.bz2"
-    sha256 :no_check
+    sha256 "64460e17a6141af3f2794922b4bee3d4d0f3b3a0fcda7635db790b9fa7d25121"
+    #sha256 :no_check
   end
 
   if Hardware::CPU.arm?
