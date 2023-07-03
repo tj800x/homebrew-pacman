@@ -9,7 +9,7 @@ class PacmanAT601 < Formula
   version "6.0.1"
  
   stable do
-    url "https://github.com/tj800x/homebrew-pacman/releases/download/v6.0.1/pacman-darwin-6.0.1.tar.bz2"
+    url "https://github.com/tj800x/homebrew-pacman/releases/download/v6.0.1/pacman-darwin.6.0.1.bz2
     sha256 :no_check
   end
 
