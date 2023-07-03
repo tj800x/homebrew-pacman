@@ -1,7 +1,7 @@
 Pacman for Homebrew
 ###################
 
-This is an unofficial `Pacman`_ tap for `homebrew`_.
+This is an unofficial _`Pacman`_ tap for _`homebrew`_.
 Only the x86_64 architecture is supported at this time.
 
 The primary purpose is to be able to run the "dylan" tool in Open Dylan.
@@ -9,7 +9,7 @@ The primary purpose is to be able to run the "dylan" tool in Open Dylan.
 
 Initial setup
 =============
-If you don't have homebrew, install it from their `homepage`_.
+If you don't have homebrew, install it from their _`homepage`_.
 
 Then, add this tap::
 
@@ -18,9 +18,9 @@ Then, add this tap::
 
 Installing
 ==========
-To install Pacman::
+Once the tap is setup, to install Pacman::
 
-	brew install --build-from-source tj800x/pacman/opendylan
+	brew install --build-from-source tj800x/pacman/pacman@6.0.1
 
 
 Notes and Credit
