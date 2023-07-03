@@ -3,7 +3,7 @@
 # Run directly with 
 #   brew -v reinstall --build-from-source --formula `pwd`/pacman@6.0.1.rb
 
-class Pacman < Formula
+class PacmanAT601 < Formula
   desc "Pacman package manager"
   homepage "https://github.com/kladd/pacman-osx"
   version "6.0.1"
